@@ -1,0 +1,6 @@
+pycaret==3.3.2
+flask
+joblib
+pandas
+numpy
+scikit-learn
